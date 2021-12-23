@@ -1,2 +1,2 @@
-# Game-Paper-Rock-Scissor
-Game Paper Rock Scissor
+# MiniProjectsJS
+Game Paper Rock Scissors
